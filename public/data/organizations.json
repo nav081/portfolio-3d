@@ -1,0 +1,167 @@
+[
+  {
+    "id": "computacenter",
+    "name": "Computacenter",
+    "glyph": "CC",
+    "logo": "images/logos/computacenter.svg",
+    "color": "#e9e9e9",
+    "role": "Senior Software Engineer",
+    "period": "Jul 2026 — Present",
+    "description": "Current role delivering engineering work on a confidential engagement for an international bank.",
+    "projects": [
+      {
+        "id": "cc-specialized-loan-service",
+        "title": "Specialized Loan Service - Confidential International Bank",
+        "summary": "Specialised loan servicing platform built with AI-assisted engineering.",
+        "role": "Senior Software Engineer",
+        "year": "2026",
+        "stack": ["GitHub Copilot agents", "Google ADK",".Net", "Angular","DevOps"],
+        "highlights": [
+          "Built loan servicing workflows with GitHub Copilot agents and Google ADK",
+          "Used agent-driven automation to speed up development and testing"
+        ],
+        "links": []
+      },
+      {
+        "id": "cc-warehouse-lending",
+        "title": "Warehouse Lending - Confidential International Bank",
+        "summary": "Warehouse lending solution for managing lending facilities and collateral.",
+        "role": "Senior Software Engineer",
+        "year": "2026",
+        "stack": ["GitHub Copilot agents", "Google ADK", ".Net Framework","Control M", "DevOps", "SQL Server"],
+        "highlights": [
+          "Delivered warehouse lending features with GitHub Copilot agents and Google ADK",
+          "Applied agentic workflows to streamline engineering tasks"
+        ],
+        "links": []
+      }
+    ]
+  },
+  {
+    "id": "maven-technosoft",
+    "name": "Maven Technosoft",
+    "glyph": "MT",
+    "logo": "images/logos/maven-technosoft.svg",
+    "color": "#a8a8a8",
+    "role": "Technical Lead",
+    "period": "Jul 2021 — Jul 2026",
+    "description": "Led end-to-end web product delivery across ASP.NET, Angular and React, including Azure AI and CMS work.",
+    "projects": [
+      {
+        "id": "mvn-myeyedr",
+        "title": "MyEyeDr",
+        "summary": "Multi-channel Braze lifecycle campaigns for an eye-care network, lifting retention and reactivation.",
+        "role": "Technical Lead",
+        "year": "24 months",
+        "stack": [".NET 6", "C#", "SQL Server", "React", "Braze", "Azure", "Databricks", "Semantic Kernel", "Azure AI Foundry"],
+        "highlights": [
+          "Ran win-back campaigns with Braze segmentation and personalisation",
+          "Applied A/B testing and cohort analysis to maximise campaign ROI",
+          "Built AI features with Semantic Kernel and Azure AI Foundry"
+        ],
+        "links": []
+      },
+      {
+        "id": "mvn-volotea",
+        "title": "Volotea",
+        "summary": "Booking and operations modules for a low-cost airline, plus a survey system and scheduled cron jobs.",
+        "role": "Technical Lead",
+        "year": "24 months",
+        "stack": [".NET 6", "C#", "SQL Server", "Angular", "AWS"],
+        "highlights": [
+          "Improved booking and operations reliability",
+          "Optimised database access and caching to lower error rates",
+          "Built a survey system that increased user retention"
+        ],
+        "links": []
+      },
+      {
+        "id": "mvn-homepage-cms",
+        "title": "Volotea CMS",
+        "summary": "Reusable CMS modules that let non-technical teams update homepage content without engineering support.",
+        "role": "Technical Lead",
+        "year": "2021 — 2026",
+        "stack": [".NET Core", "Umbraco", "Angular", "AWS Lambda", "S3"],
+        "highlights": [
+          "Decoupled content updates from code, accelerating release cycles",
+          "Reduced developer effort and turnaround time for homepage changes"
+        ],
+        "links": []
+      },
+      {
+        "id": "mvn-internal-briefing",
+        "title": "Internal Briefing RAG",
+        "summary": "Retrieval-augmented generation system for internal briefings, built on Azure AI.",
+        "role": "Technical Lead",
+        "year": "2021 — 2026",
+        "stack": ["Azure AI", "OpenAI", "Semantic Kernel", "RAG"],
+        "highlights": [
+          "Built a RAG system for internal briefings using Azure AI",
+          "Added Semantic Kernel workflows for on-demand content manipulation"
+        ],
+        "links": []
+      }
+    ]
+  },
+  {
+    "id": "techpro-compsoft",
+    "name": "Techpro Compsoft",
+    "glyph": "TC",
+    "logo": "images/logos/techpro-compsoft.png",
+    "color": "#6f6f6f",
+    "role": "Software Developer",
+    "period": "Jan 2020 — Apr 2021",
+    "description": "Joined as an intern and was promoted to Software Developer, building ASP.NET and MVC modules.",
+    "projects": [
+      {
+        "id": "tpc-findool",
+        "title": "Findool",
+        "summary": "Multi-domain site with a job portal, classifieds and ecommerce, with search, filters and pagination.",
+        "role": "Developer",
+        "year": "120 days",
+        "stack": [".NET Core", "C#", "SQL Server", "React", "Braze"],
+        "highlights": [
+          "Built multi-tenant features for jobs, ads and commerce",
+          "Delivered search, filters and pagination that boosted engagement"
+        ],
+        "links": []
+      },
+      {
+        "id": "tpc-andera",
+        "title": "Andera",
+        "summary": "Parking management application for multiple companies, covering allocation, billing and reporting.",
+        "role": "Developer",
+        "year": "152 days",
+        "stack": ["MVC 5", "C#", "SQL Server"],
+        "highlights": [
+          "Saved 48 hours per week of manual effort with allocation, billing and reporting modules",
+          "Improved occupancy planning accuracy by 6% with analytics dashboards"
+        ],
+        "links": []
+      },
+      {
+        "id": "tpc-classified",
+        "title": "Classified",
+        "summary": "RESTful APIs for buying and selling multiple product types across categories.",
+        "role": "Developer",
+        "year": "62 days",
+        "stack": ["MVC 5", "C#", "SQL Server"],
+        "highlights": ["Designed APIs enabling cross-category listings", "Added auth, moderation and auditing"],
+        "links": []
+      },
+      {
+        "id": "tpc-audio-mixer",
+        "title": "Audio Mixer",
+        "summary": "Audio mixing app to select and mix songs using ffmpeg processing pipelines.",
+        "role": "Developer",
+        "year": "304 days",
+        "stack": ["MVC 5", "C#", "ffmpeg"],
+        "highlights": [
+          "Shortened mixing and export with ffmpeg pipelines",
+          "Improved waveform visualisation, increasing session completion rate"
+        ],
+        "links": []
+      }
+    ]
+  }
+]

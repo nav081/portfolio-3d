@@ -1,0 +1,57 @@
+{
+  "name": "Navneet Yadav",
+  "handle": "NAVNEET.YDV",
+  "title": "Senior Software Engineer",
+  "tagline": "Building end-to-end web products and AI-powered agent solutions with ASP.NET, Azure and modern front-ends.",
+  "bio": "I build scalable products and the AI agents that run them. Since 2020 I've shipped .NET, Angular and React apps on Azure, from a Technical Lead role at Maven Technosoft (Volotea, MyEyeDr with Braze campaigns, and an Azure AI RAG system) to Software Developer at Techpro Compsoft. Today I'm a Senior Software Engineer at Computacenter, building loan servicing and warehouse lending platforms with GitHub Copilot agents and Google ADK.",
+  "location": "Noida, India",
+  "availability": "Senior Software Engineer at Computacenter",
+  "email": "nicenavneet99@gmail.com",
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/nav081" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/navneet-yadav-56a7001a1/" }
+  ],
+  "skills": [
+    ".NET",
+    "C#",
+    "ASP.NET",
+    "MVC",
+    "React.js",
+    "Angular",
+    "Umbraco",
+    "Azure",
+    "Azure Functions",
+    "Azure Data Factory",
+    "Azure AI Foundry",
+    "Databricks",
+    "AWS",
+    "AWS Lambda",
+    "SQL Server",
+    "Braze CRM",
+    "Control-M",
+    "Semantic Kernel",
+    "LangChain",
+    "LangGraph",
+    "Google ADK",
+    "GitHub Copilot agents",
+    ".NET Core",
+    "OpenAI",
+    "RAG",
+    "S3",
+    "ffmpeg",
+    "TypeScript",
+    "DevOps CI/CD"
+  ],
+  "domains": [
+    { "label": "E-commerce", "example": "shop.myeyedr.com", "url": "https://shop.myeyedr.com" },
+    { "label": "Airline", "example": "volotea.com", "url": "https://www.volotea.com" },
+    { "label": "Banking & Finance" , "example": "Confidential", "url": "#" },
+    { "label": "Health care","example": "MyEyeDr", "url": "https://www.myeyedr.com" },
+    { "label": "Insurance & Marketing", "example": "MyEyeDr" }
+  ],
+  "stats": [
+    { "label": "Years experience", "value": "6+" },
+    { "label": "Fewer API errors", "value": "-60%" },
+    { "label": "Faster app load", "value": "-25%" }
+  ]
+}

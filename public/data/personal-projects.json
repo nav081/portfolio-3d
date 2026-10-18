@@ -1,0 +1,28 @@
+[
+  {
+    "id": "orb-workspace",
+    "title": "Workspace",
+    "summary": "An AI project builder that turns a working requirement into a fully developed application.",
+    "status": "In progress",
+    "color": "#d0d0d0",
+    "stack": ["LangChain", "LangGraph", "Azure AI Foundry"],
+    "highlights": [
+      "Multi-agent LangGraph workflow that takes a requirement through to a complete application",
+      "Runs on Azure AI Foundry"
+    ],
+    "links": []
+  },
+  {
+    "id": "orb-interview-ai",
+    "title": "InterviewAI",
+    "summary": "Structured AI interviews for hiring teams, with voice-first interviews, transcripts and candidate signals in one workflow.",
+    "status": "Live",
+    "color": "#d0d0d0",
+    "stack": ["Azure Static Web Apps", "AI interviews"],
+    "highlights": [
+      "Runs voice-first structured interviews for hiring teams",
+      "Captures transcripts and surfaces candidate signals for faster decisions"
+    ],
+    "links": [{ "label": "Visit site", "url": "https://lively-coast-04f863a00.7.azurestaticapps.net/" }]
+  }
+]

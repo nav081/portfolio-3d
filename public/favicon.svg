@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#f6f3ee"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#ddd5ef" stroke-width="2"/>
+  <text x="32" y="41" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="1" fill="#2f2c38">NY</text>
+</svg>

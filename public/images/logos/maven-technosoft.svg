@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="Maven Technosoft - Inspired by Excellence">
+  <defs>
+    <linearGradient id="mvnGreen" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#1bc36a"/>
+      <stop offset="55%"  stop-color="#1ec3a6"/>
+      <stop offset="100%" stop-color="#1fb6d4"/>
+    </linearGradient>
+    <linearGradient id="mvnCyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#1ec3a6"/>
+      <stop offset="100%" stop-color="#22a4c0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Circular ring around the M (open at top-right, like the brand mark) -->
+  <g transform="translate(20,20)">
+    <circle cx="140" cy="140" r="124" fill="none" stroke="url(#mvnGreen)" stroke-width="14"
+            stroke-dasharray="720 110" stroke-dashoffset="55" stroke-linecap="round"
+            transform="rotate(-65 140 140)"/>
+
+    <!-- Stylized M (two angular peaks) -->
+    <g fill="none" stroke="url(#mvnGreen)" stroke-width="20" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="58,220 88,80 138,200 188,80 218,220"/>
+    </g>
+  </g>
+
+  <!-- Wordmark "AVEN" (the M comes from the mark) -->
+  <g transform="translate(290,70)" fill="url(#mvnCyan)" font-family="'Poppins','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="118" letter-spacing="2">
+    <text x="0" y="100">AVEN</text>
+  </g>
+
+  <!-- TECHNOSOFT subline -->
+  <text x="290" y="220" fill="#5a5a5a" font-family="'Poppins','Helvetica Neue',Arial,sans-serif"
+        font-weight="700" font-size="62" letter-spacing="6">TECHNOSOFT</text>
+
+  <!-- Tagline -->
+  <text x="290" y="262" fill="#7a7a7a" font-family="'Poppins','Helvetica Neue',Arial,sans-serif"
+        font-weight="500" font-size="22" letter-spacing="6">INSPIRED BY EXCELLENCE</text>
+</svg>

@@ -1,0 +1,45 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: Inter, 'Segoe UI', system-ui, sans-serif;
+  --color-bg: #f6f3ee;
+  --color-panel: #ece7df;
+  --color-ink: #2f2c38;
+  --color-mute: #7d7785;
+  --color-line: #d9d2c7;
+  --color-sage: #cfe0d6;
+  --color-lilac: #ddd5ef;
+  --color-peach: #f6dccb;
+  --color-sky: #d3e4f0;
+}
+
+html {
+  background: #f6f3ee;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #f6f3ee;
+  color: #2f2c38;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+@layer components {
+  .kicker {
+    @apply text-xs font-semibold uppercase tracking-[0.3em] text-mute;
+  }
+
+  .display {
+    @apply font-black uppercase leading-[0.9] tracking-[-0.03em];
+  }
+
+  .chip {
+    @apply inline-flex items-center border border-line bg-panel px-3 py-1.5 text-[11px] font-semibold uppercase tracking-[0.2em] text-ink transition-colors duration-300 hover:bg-lilac;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center gap-2 rounded-full border border-ink px-6 py-3 text-xs font-semibold uppercase tracking-[0.3em] text-ink transition-all duration-300 hover:-translate-y-0.5 hover:bg-ink hover:text-bg active:scale-95;
+  }
+}

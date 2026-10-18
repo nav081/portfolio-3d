@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "menuButton": "Menu",
+    "closeButton": "Close",
+    "links": [
+      { "label": "Experience", "target": "experience" },
+      { "label": "Projects", "target": "projects" },
+      { "label": "About", "target": "about" },
+      { "label": "Contact", "target": "contact" }
+    ]
+  },
+  "hero": {
+    "kicker": "// IDENTITY",
+    "domainsLabel": "// DOMAINS",
+    "exploreButton": "Explore work",
+    "contactButton": "Contact",
+    "scrollCue": "Scroll down"
+  },
+  "experience": {
+    "label": "// FEATURED EXPERIENCE",
+    "viewButton": "View projects"
+  },
+  "projects": {
+    "label": "// PERSONAL PROJECTS",
+    "openButton": "Open project"
+  },
+  "about": {
+    "label": "// ABOUT",
+    "skillsLabel": "Skills",
+    "contactButton": "Get in touch"
+  },
+  "detail": {
+    "closeButton": "Close",
+    "stackLabel": "Stack",
+    "outcomesLabel": "Key outcomes"
+  },
+  "footer": {
+    "note": "Built with React"
+  }
+}

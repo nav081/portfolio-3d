@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local env files (keep secrets out of git)
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suspicious
+.DS_Store
+Thumbs.db
+
+# Coverage and caches
+coverage/
+*.tsbuildinfo
+.eslintcache
+.cache/
